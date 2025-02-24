@@ -1,0 +1,7 @@
+MIT License
+
+Copyright (c) 2025 Samuele Bosso
+
+Permesso è concesso, gratuitamente, a chiunque ottenga una copia del presente software e dei relativi file di documentazione (il "Software"), di gestirlo nel Software senza restrizioni, comprese, senza limitazione, i diritti di usare, copiare, modificare, fondere, pubblicare, distribuire, sublicenziare e/o vendere copie del Software, e di permettere a chiunque altro faccia lo stesso, a condizione che il presente avviso di copyright e il presente avviso di licenza siano inclusi in tutte le copie o porzioni sostanziali del Software.
+
+Il Software è fornito "così com'è", senza alcuna garanzia di alcun tipo, espressa o implicita, comprese, senza limitazione, le garanzie di commerciabilità, idoneità per uno scopo particolare e non violazione. In nessun caso il copyright titolare o i contributori possono essere ritenuti responsabili per qualsiasi reclamo, danno o altra responsabilità, sia in un'azione di contratto, torto o altro, derivante da, fuori o in connessione con il Software o l'uso o altre transazioni nel Software.
